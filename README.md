@@ -23,7 +23,7 @@ This is the welcome screen of the app, featuring a login button that allows user
 
 ### 2. LOGIN PAGE :
 
-<img width="496" height="842" alt="EXP2 PHN 2" src="https://github.com/user-attachments/assets/e3dae7f1-9238-4a85-820a-97f66444b508" />
+<img width="300" height="500" alt="EXP2 PHN 2" src="https://github.com/user-attachments/assets/e3dae7f1-9238-4a85-820a-97f66444b508" />
 
 
 This is the Login page of the app, where users can enter their name, email, and password to create a new account. For existing users, it also provides login options.
@@ -34,7 +34,7 @@ This is the Login page of the app, where users can enter their name, email, and 
 
 
 
-<img width="492" height="842" alt="EXP2 PHN 3" src="https://github.com/user-attachments/assets/3bfb4cfc-57de-45dd-9699-7a437c8b361b" />
+<img width="300" height="500" alt="EXP2 PHN 3" src="https://github.com/user-attachments/assets/3bfb4cfc-57de-45dd-9699-7a437c8b361b" />
 
 
 This is the Home page of the app, featuring a search bar to find favorite recipes and a ‘Popular Recipes’ section with a scroll option showcasing frequently searched dishes. By selecting a recipe, users are directed to the next page with full details.
@@ -43,7 +43,7 @@ This is the Home page of the app, featuring a search bar to find favorite recipe
 
 ### 4. RECIPE PAGE :
 
-<img width="497" height="846" alt="EXP2 PHN 4" src="https://github.com/user-attachments/assets/6d82a4a7-3263-4367-8c9d-80e2f3b8364a" />
+<img width="300" height="500" alt="EXP2 PHN 4" src="https://github.com/user-attachments/assets/6d82a4a7-3263-4367-8c9d-80e2f3b8364a" />
 
 
 The Recipe page displays the selected dish along with all the required ingredients and a step-by-step guide to prepare it.
@@ -57,7 +57,7 @@ The Recipe page displays the selected dish along with all the required ingredien
 ### 1. WELCOME PAGE:
 
 
-<img width="1221" height="867" alt="EX2 PC 1" src="https://github.com/user-attachments/assets/875efd9b-3cf3-4dc7-ba19-46eb6b7aaec1" />
+<img width="600" height="425" alt="EX2 PC 1" src="https://github.com/user-attachments/assets/875efd9b-3cf3-4dc7-ba19-46eb6b7aaec1" />
 
 
 
