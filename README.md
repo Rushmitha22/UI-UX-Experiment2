@@ -66,7 +66,7 @@ This is the welcome screen of the app, featuring a login button that allows user
 
 ### 2. LOGIN PAGE :
 
-<img width="1217" height="867" alt="EXP2 PC 2" src="https://github.com/user-attachments/assets/4a4b8e89-e0ee-4196-8356-1684766f10a3" />
+<img width="600" height="425" alt="EXP2 PC 2" src="https://github.com/user-attachments/assets/4a4b8e89-e0ee-4196-8356-1684766f10a3" />
 
 
 
@@ -76,7 +76,7 @@ This is the Login page of the app, where users can enter their name, email, and 
 
 ### 3. HOME PAGE :
 
-<img width="1217" height="867" alt="EXP2 PC 3" src="https://github.com/user-attachments/assets/bc083890-29f2-4260-8b75-5b2969f5e263" />
+<img width="600" height="425" alt="EXP2 PC 3" src="https://github.com/user-attachments/assets/bc083890-29f2-4260-8b75-5b2969f5e263" />
 
 
 This is the Home page of the app, featuring a search bar to find favorite recipes and a ‘Popular Recipes’ section with a scroll option showcasing frequently searched dishes. By selecting a recipe, users are directed to the next page with full details.
@@ -85,12 +85,12 @@ This is the Home page of the app, featuring a search bar to find favorite recipe
 
 ### 4. RECIPE PAGE :
 
-<img width="1217" height="867" alt="EXP2 PC 4" src="https://github.com/user-attachments/assets/992dacbe-35eb-4a33-9393-0761e8631fd4" />
+<img width="600" height="425" alt="EXP2 PC 4" src="https://github.com/user-attachments/assets/992dacbe-35eb-4a33-9393-0761e8631fd4" />
 
 
 The Recipe page displays the selected dish along with all the required ingredients and a step-by-step guide to prepare it.
 
 
 ## RESULT:
-T
-he project successfully produced a basic mobile and web layout for the chosen case study. Gestalt principles were applied to improve visual hierarchy, UI elements and design patterns were effectively incorporated, and usability principles guided the interaction design.
+
+The project successfully produced a basic mobile and web layout for the chosen case study. Gestalt principles were applied to improve visual hierarchy, UI elements and design patterns were effectively incorporated, and usability principles guided the interaction design.
