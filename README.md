@@ -1,6 +1,4 @@
-# EXPERIMENT 2 : DESIGN A BASIC MOBILE AND WEB LAYOUT FOR AN EXISITNG 
-#
-#                 CASE STUDY:
+# EXPERIMENT 2 : DESIGN A BASIC MOBILE AND WEB LAYOUT :
 
 ## NAME : RUSHMITHA R
 ## REGISTRATION NUMBER : 212224040281
@@ -16,7 +14,7 @@ The aim of this project is to design a basic mobile and web layout for an existi
 
 ### 1. WELCOME PAGE :
 
-<img width="511" height="845" alt="EXP2 PHN1" src="https://github.com/user-attachments/assets/84e92e9e-ce13-4779-bfa9-751148597af9" />
+<img width="300" height="500" alt="EXP2 PHN1" src="https://github.com/user-attachments/assets/84e92e9e-ce13-4779-bfa9-751148597af9" />
 
 
 This is the welcome screen of the app, featuring a login button that allows users to proceed to the next page, offering users a simple login button to begin their journey in this app
